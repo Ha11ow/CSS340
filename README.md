@@ -4,7 +4,7 @@ Author: Ben Khabazan
 This repository includes all projects worked on and created during the course of CSS340 in the University of Washington. 
 
 Project List:  <br />
-Assignment 1: IntArrayList - Fractions <br />
+Assignment 1: Geometry <br />
 Assignmnet 2: Fractions Advanced <br />
 Assignment 3: Stack - Queue - ArrayList <br />
 Assignment 4: Simple Bill <br />
