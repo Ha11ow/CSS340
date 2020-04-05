@@ -5,13 +5,10 @@ This repository includes all projects worked on and created during the course of
 
 Project List:  <br />
 Assignment 1: Geometry <br />
-Assignmnet 2: Fractions Advanced <br />
-Assignment 3: Stack - Queue - ArrayList <br />
-Assignment 4: Simple Bill <br />
-Assignment 5: Shapes <br />
-Assignment 6: Nodes <br />
-Assignment 7: Search Algorithms <br />
-Assignment 8: Expenses - Bank <br />
-Assignment 9: Pizza Vending Machine <br />
+Assignmnet 2: Time - Clock <br />
+Assignment 3: Algorithm Analysis <br />
+Assignment 4: Catalan - GreedyRobot <br />
+Assignment 5: Sorting Algorithms <br />
+Assignment 6: Bank <br />
 
 I reserve all rights to the code written as part of the solution.
